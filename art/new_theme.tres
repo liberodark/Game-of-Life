@@ -1,0 +1,9 @@
+[gd_resource type="Theme" format=3 uid="uid://bmdj0ftoa7fnd"]
+
+[resource]
+ItemList/colors/font_color = Color(0.678431, 0.678431, 1, 1)
+ItemList/colors/font_hovered_color = Color(0.678431, 0.678431, 1, 1)
+ItemList/colors/font_outline_color = Color(0.356863, 0.356863, 1, 1)
+ItemList/colors/font_selected_color = Color(0.678431, 0.678431, 1, 1)
+ItemList/colors/guide_color = Color(0.356863, 0.356863, 1, 1)
+ItemList/constants/outline_size = 4

@@ -1,0 +1,6 @@
+x 1. Zooming.
+x 2. Panning.
+x 3. Draw and erase cell abilities.
+x 4. Play and pause button.
+x 5. Change speed slider.
+6. Rules can be modified.
